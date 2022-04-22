@@ -8,8 +8,12 @@ I am Martin from France living in Tahiti, French Polynesia 🌴. I am developing
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
 
 ### Connect with me :
-<img align="left" alt="LinkedIN" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:20px;" href="https://www.linkedin.com/in/martinbinard/"/>
-<img align="left" alt="Twitter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:20px;" href="https://twitter.com/BinardMartin"/>
+
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/martinbinard/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/martinbinard/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/BinardMartin#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/BinardMartin#gh-dark-mode-only)
 
 ### Languages and Tools :
 
