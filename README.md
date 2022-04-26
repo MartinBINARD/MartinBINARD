@@ -7,6 +7,8 @@ I am Martin from France living in Tahiti, French Polynesia 🌴. I am developing
 - 👯 I’m looking to collaborate on project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
 
+---
+
 ### Connect with me :
 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/martinbinard/#gh-light-mode-only)
@@ -14,6 +16,8 @@ I am Martin from France living in Tahiti, French Polynesia 🌴. I am developing
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/BinardMartin#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/BinardMartin#gh-dark-mode-only)
+
+---
 
 ### Languages and Tools :
 
@@ -33,6 +37,8 @@ I am Martin from France living in Tahiti, French Polynesia 🌴. I am developing
 <img align="left" alt="Raspberry pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <br/>
 <br/>
+
+---
 
 ### ⭐ GitHub Stats
 
