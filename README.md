@@ -1,9 +1,9 @@
 ### Martin BINARD
 ### Hi there 👋
-I am Martin from France living in Tahiti, French Polynesia 🌴. I am developing my Frond-end skills in VueJS and i am interested in Javascript frameworks.
+I am Martin from France.:fr: I developed my Frond-end skills in VueJS and i am interested in Javascript frameworks.
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning VueJS 3.
+- 🌱 I’m currently learning Javascript frontend frameworks.
 - 👯 I’m looking to collaborate on project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
 
