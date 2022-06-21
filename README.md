@@ -1,9 +1,11 @@
 ### Martin BINARD
+
 ### Hi there 👋
+
 I am Martin from France.:fr: I developed my Frond-end skills in VueJS and i am interested in Javascript frameworks.
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning Javascript frontend frameworks.
+- 🌱 I’m currently learning TypeScript & Javascript frontend frameworks.
 - 👯 I’m looking to collaborate on project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
 
@@ -27,6 +29,8 @@ I am Martin from France.:fr: I developed my Frond-end skills in VueJS and i am i
 <img align="left" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Babel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
