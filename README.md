@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-I am Martin from France.:fr: I developed my Frond-end skills in Quasar and VueJS and i am interested in Javascript frameworks.
+I am Martin from France.:fr: I developed my Frond-end skills in Quasar and VueJS and i am interested in Javascript frameworks such as React.
 
 - 🔭 I’m currently rebuilding a social network with Quasar.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
 
