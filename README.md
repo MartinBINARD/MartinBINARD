@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I am Martin from France.:fr: I developed my Frond-end skills in React with TypeScript and i already have experience in VueJS / Quasar and also in NodeJS & Sequelize. I am interested in Javascript frameworks.
+I am Martin from France.:fr: I developed my Frond-end skills in React with TypeScript and i already have experience in VueJS / Quasar and also in NodeJS & Sequelize. I am interested in Javascript frameworks, clean code and i want to know more about clean architecture.
 
-- 🔭 I’m currently building a Geocahing App in React with TypeScript and it will be deployed soon.
+- 🔭 I’m currently refactoring a Geocahing App in React with TypeScript and it will be deployed soon.
 - 🌱 I’m currently learning JEST and implementing test unit in this App.
 - 👯 I’m looking to collaborate on project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
