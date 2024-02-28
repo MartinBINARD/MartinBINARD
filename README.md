@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Martin from France.:fr: I developed my Frond-end skills in React with TypeScript and i already have experience in VueJS / Quasar and also in NodeJS & Sequelize. I am interested in Javascript frameworks, clean code and i want to know more about clean architecture.
+I am Martin from France. :fr: I developed my Frond-end skills in React with TypeScript and i already have experience in VueJS / Quasar and also in NodeJS & Sequelize. I am interested in Javascript frameworks, clean code and i want to know more about clean architecture.
 
 - 🔭 I’m currently refactoring a Geocahing App in React with TypeScript and it will be deployed soon.
 - 🌱 I’m currently learning JEST and implementing test unit in this App.
@@ -32,7 +32,7 @@ I am Martin from France.:fr: I developed my Frond-end skills in React with TypeS
 <img align="left" alt="Eslint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />          
 <img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Babel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
