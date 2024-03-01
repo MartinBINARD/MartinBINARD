@@ -6,9 +6,13 @@ I am Martin from France. 🇫🇷 I developed my Frond-end skills in React with 
 
 - 🔭 I’m currently working on my deployed web app : [GeoCacheTrek](https://geocachetrek.online).
 - 🌱 I’m currently learning JEST and implementing a clean architecture for unit testing in frontend app.
-- 👯 I’m looking to collaborate on project.
+- 👯 I’m looking to collaborate on a project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
 - 📫 How to reach me: LinkedIn or email.
+
+### See my deployed App :
+
+<a href="https://geocachetrek.online/" ><img src="./geoacachetrek_mobile.gif" width="200"/></a>
 
 ---
 
