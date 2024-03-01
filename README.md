@@ -4,7 +4,7 @@
 
 I am Martin from France. 🇫🇷 I developed my Frond-end skills in React with TypeScript and i already have experience in VueJS / Quasar and also in NodeJS & Sequelize. I am interested in Javascript frameworks, clean code and i want to know more about clean architecture.
 
-- 🔭 I’m currently working my deployed web app : [GeoCacheTrek](https://geocachetrek.online).
+- 🔭 I’m currently working on my deployed web app : [GeoCacheTrek](https://geocachetrek.online).
 - 🌱 I’m currently learning JEST and implementing a clean architecture for unit testing in frontend app.
 - 👯 I’m looking to collaborate on project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
