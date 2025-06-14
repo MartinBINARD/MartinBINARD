@@ -4,7 +4,7 @@
 
 I am Martin from France. 🇫🇷 I developed my Frond-end skills in NextJs, React and React Native with TypeScript and i already have experience in VueJS / Quasar and also in NodeJS & Sequelize. I am interested in Javascript frameworks, clean code and i want to know more about clean architecture.
 
-- 🔭 I’m currently working on projects for clients as a freelancer 
+- 🔭 I’m currently working on multiple projects 
 - 🌱 I’m currently learning TDD on a react native project and i have already implemented a clean architecture and integration tests in my frontend app : [GeoCacheTrek](https://geocachetrek.online).
 - 👯 I’m looking to collaborate on a project.
 - ⚡ Fun fact: By the way, i am working on Linux environment :penguin:.
@@ -55,4 +55,10 @@ I am Martin from France. 🇫🇷 I developed my Frond-end skills in NextJs, Rea
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBINARD&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBINARD&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=00cc8f&border_color=00cc8f)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBINARD&layout=donut-vertical&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=00cc8f&border_color=00cc8f)
